@@ -21,6 +21,7 @@
     "@screens/create-post-1": "file:./screens/create-post-1/",
     "@screens/events-advanced": "file:./screens/events-advanced/",
     "@screens/events-simple": "file:./screens/events-simple/",
+    "@screens/followers-list": "file:./screens/followers-list/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-dom": "^18.2.0",
