@@ -23,6 +23,7 @@
     "@screens/events-simple": "file:./screens/events-simple/",
     "@screens/followers-list": "file:./screens/followers-list/",
     "@screens/getting-started": "file:./screens/getting-started/",
+    "@screens/menu": "file:./screens/menu/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-dom": "^18.2.0",

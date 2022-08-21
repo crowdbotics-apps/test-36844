@@ -65,6 +65,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-events-advanced](screens/events-advanced)
 - [screen-followers-list](screens/followers-list)
 - [screen-getting-started](screens/getting-started)
+- [screen-menu](screens/menu)
 
 # Getting started: Frontend
 
