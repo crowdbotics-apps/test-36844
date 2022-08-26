@@ -61,7 +61,6 @@ This section will show any installed modules you add from the Storyboard Modules
 - [camera]()
 - [react-native-chat](modules/chat)
 - [screen-events-simple](screens/events-simple)
-- [screen-events-advanced](screens/events-advanced)
 - [screen-followers-list](screens/followers-list)
 - [screen-social-followers](screens/social-followers)
 - [screen-chat-listing](screens/chat-listing)

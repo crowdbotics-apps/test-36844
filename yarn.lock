@@ -1289,9 +1289,6 @@
 "@screens/chat-listing@file:./screens/chat-listing":
   version "1.0.0"
 
-"@screens/events-advanced@file:./screens/events-advanced":
-  version "1.0.0"
-
 "@screens/events-simple@file:./screens/events-simple":
   version "1.0.0"
 
