@@ -1287,9 +1287,6 @@
 "@screens/events-simple@file:./screens/events-simple":
   version "1.0.0"
 
-"@screens/followers-list@file:./screens/followers-list":
-  version "1.0.0"
-
 "@screens/profile@file:./screens/profile":
   version "1.0.0"
 
