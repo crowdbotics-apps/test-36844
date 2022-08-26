@@ -1273,7 +1273,10 @@
 "@screens/menu@file:./screens/menu":
   version "1.0.0"
 
-"@screens/profile@file:./screens/profile/":
+"@screens/profile@file:./screens/profile":
+  version "1.0.0"
+
+"@screens/social-feed@file:./screens/social-feed/":
   version "1.0.0"
 
 "@screens/social-followers@file:./screens/social-followers":

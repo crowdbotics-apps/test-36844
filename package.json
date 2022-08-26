@@ -27,6 +27,7 @@
     "@screens/getting-started": "file:./screens/getting-started/",
     "@screens/menu": "file:./screens/menu/",
     "@screens/profile": "file:./screens/profile/",
+    "@screens/social-feed": "file:./screens/social-feed/",
     "@screens/social-followers": "file:./screens/social-followers/",
     "axios": "^0.21.1",
     "react": "17.0.1",
