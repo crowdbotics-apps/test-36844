@@ -26,6 +26,7 @@
     "@screens/followers-list": "file:./screens/followers-list/",
     "@screens/getting-started": "file:./screens/getting-started/",
     "@screens/menu": "file:./screens/menu/",
+    "@screens/profile": "file:./screens/profile/",
     "@screens/social-followers": "file:./screens/social-followers/",
     "axios": "^0.21.1",
     "react": "17.0.1",

@@ -1033,7 +1033,7 @@
     react-native-emoji-selector "^0.2.0"
     react-native-keyboard-aware-scroll-view "^0.9.3"
 
-"@modules/user-profile@file:./modules/user-profile/":
+"@modules/user-profile@file:./modules/user-profile":
   version "1.0.0"
   dependencies:
     "@react-navigation/native" "^5.9.2"
@@ -1271,6 +1271,9 @@
   version "1.0.0"
 
 "@screens/menu@file:./screens/menu":
+  version "1.0.0"
+
+"@screens/profile@file:./screens/profile/":
   version "1.0.0"
 
 "@screens/social-followers@file:./screens/social-followers":
