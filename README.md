@@ -67,6 +67,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-getting-started](screens/getting-started)
 - [screen-menu](screens/menu)
 - [screen-social-followers](screens/social-followers)
+- [screen-chat-listing](screens/chat-listing)
 
 # Getting started: Frontend
 
