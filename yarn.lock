@@ -1249,9 +1249,6 @@
 "@screens/create-post-1@file:./screens/create-post-1":
   version "1.0.0"
 
-"@screens/create-post-1@file:./screens/create-post-1/":
-  version "1.0.0"
-
 "@screens/events-advanced@file:./screens/events-advanced":
   version "1.0.0"
 
@@ -1265,6 +1262,9 @@
   version "1.0.0"
 
 "@screens/menu@file:./screens/menu":
+  version "1.0.0"
+
+"@screens/social-followers@file:./screens/social-followers/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
