@@ -22,7 +22,6 @@
     "@react-navigation/stack": "^5.14.3",
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/chat-listing": "file:./screens/chat-listing/",
-    "@screens/events-simple": "file:./screens/events-simple/",
     "@screens/profile": "file:./screens/profile/",
     "@screens/social-feed": "file:./screens/social-feed/",
     "@screens/social-followers": "file:./screens/social-followers/",

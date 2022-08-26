@@ -1284,9 +1284,6 @@
 "@screens/chat-listing@file:./screens/chat-listing":
   version "1.0.0"
 
-"@screens/events-simple@file:./screens/events-simple":
-  version "1.0.0"
-
 "@screens/profile@file:./screens/profile":
   version "1.0.0"
 
