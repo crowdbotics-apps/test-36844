@@ -1298,9 +1298,6 @@
 "@screens/followers-list@file:./screens/followers-list":
   version "1.0.0"
 
-"@screens/menu@file:./screens/menu":
-  version "1.0.0"
-
 "@screens/profile@file:./screens/profile":
   version "1.0.0"
 

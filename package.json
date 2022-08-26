@@ -26,7 +26,6 @@
     "@screens/events-advanced": "file:./screens/events-advanced/",
     "@screens/events-simple": "file:./screens/events-simple/",
     "@screens/followers-list": "file:./screens/followers-list/",
-    "@screens/menu": "file:./screens/menu/",
     "@screens/profile": "file:./screens/profile/",
     "@screens/social-feed": "file:./screens/social-feed/",
     "@screens/social-followers": "file:./screens/social-followers/",

@@ -63,7 +63,6 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-events-simple](screens/events-simple)
 - [screen-events-advanced](screens/events-advanced)
 - [screen-followers-list](screens/followers-list)
-- [screen-menu](screens/menu)
 - [screen-social-followers](screens/social-followers)
 - [screen-chat-listing](screens/chat-listing)
 - [react-native-user-profile](modules/user-profile)
