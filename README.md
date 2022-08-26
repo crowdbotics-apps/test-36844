@@ -58,7 +58,6 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 ## Modules (THIS SECTION IS AUTO-GENERATED, PLEASE DO NOT EDIT)
 
 This section will show any installed modules you add from the Storyboard Modules section.
-- [camera]()
 - [react-native-chat](modules/chat)
 - [screen-events-simple](screens/events-simple)
 - [screen-followers-list](screens/followers-list)
