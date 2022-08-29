@@ -1049,6 +1049,11 @@
     react-native-keyboard-aware-scroll-view "^0.9.3"
     uuid "^8.3.2"
 
+"@modules/terms-and-conditions@file:./modules/terms-and-conditions":
+  version "1.0.1"
+  dependencies:
+    react-native-render-html "^5.1.0"
+
 "@modules/user-profile@file:./modules/user-profile":
   version "1.0.0"
   dependencies:
@@ -1288,7 +1293,7 @@
 "@screens/social-followers@file:./screens/social-followers":
   version "1.0.0"
 
-"@screens/upload-media@file:./screens/upload-media/":
+"@screens/upload-media@file:./screens/upload-media":
   version "1.0.0"
 
 "@screens/welcome@file:./screens/welcome":

@@ -69,6 +69,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-welcome](screens/welcome)
 - [screen-settings](screens/settings)
 - [screen-upload-media](screens/upload-media)
+- [terms-and-conditions]()
 
 # Getting started: Frontend
 
