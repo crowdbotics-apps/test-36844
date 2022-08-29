@@ -27,6 +27,7 @@
     "@screens/social-feed": "file:./screens/social-feed/",
     "@screens/social-followers": "file:./screens/social-followers/",
     "@screens/suggest-a-feature": "file:./screens/suggest-a-feature/",
+    "@screens/support-faq": "file:./screens/support-faq/",
     "@screens/token": "file:./screens/token/",
     "@screens/upload-media": "file:./screens/upload-media/",
     "@screens/welcome": "file:./screens/welcome/",

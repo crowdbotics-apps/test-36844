@@ -72,6 +72,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [terms-and-conditions]()
 - [screen-suggest-a-feature](screens/suggest-a-feature)
 - [screen-token](screens/token)
+- [screen-support-faq](screens/support-faq)
 
 # Getting started: Frontend
 

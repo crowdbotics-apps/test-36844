@@ -1296,7 +1296,10 @@
 "@screens/suggest-a-feature@file:./screens/suggest-a-feature":
   version "1.0.0"
 
-"@screens/token@file:./screens/token/":
+"@screens/support-faq@file:./screens/support-faq/":
+  version "1.0.0"
+
+"@screens/token@file:./screens/token":
   version "1.0.0"
 
 "@screens/upload-media@file:./screens/upload-media":
