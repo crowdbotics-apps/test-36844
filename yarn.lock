@@ -1279,6 +1279,9 @@
 "@screens/profile@file:./screens/profile":
   version "1.0.0"
 
+"@screens/settings@file:./screens/settings/":
+  version "1.0.0"
+
 "@screens/social-feed@file:./screens/social-feed":
   version "1.0.0"
 
