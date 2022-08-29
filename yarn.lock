@@ -1281,7 +1281,10 @@
 "@screens/chat-listing@file:./screens/chat-listing":
   version "1.0.0"
 
-"@screens/menu@file:./screens/menu/":
+"@screens/direct-messages@file:./screens/direct-messages/":
+  version "1.0.0"
+
+"@screens/menu@file:./screens/menu":
   version "1.0.0"
 
 "@screens/notifications-preference@file:./screens/notifications-preference":

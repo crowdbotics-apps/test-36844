@@ -76,6 +76,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-support-send-feedback](screens/support-send-feedback)
 - [screen-notifications-preference](screens/notifications-preference)
 - [screen-menu](screens/menu)
+- [screen-direct-messages](screens/direct-messages)
 
 # Getting started: Frontend
 
