@@ -22,6 +22,7 @@
     "@react-navigation/stack": "^5.14.3",
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/chat-listing": "file:./screens/chat-listing/",
+    "@screens/contact-us": "file:./screens/contact-us/",
     "@screens/direct-messages": "file:./screens/direct-messages/",
     "@screens/menu": "file:./screens/menu/",
     "@screens/notifications-preference": "file:./screens/notifications-preference/",
