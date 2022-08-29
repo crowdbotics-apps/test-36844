@@ -22,6 +22,7 @@
     "@react-navigation/stack": "^5.14.3",
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/chat-listing": "file:./screens/chat-listing/",
+    "@screens/notifications-preference": "file:./screens/notifications-preference/",
     "@screens/profile": "file:./screens/profile/",
     "@screens/settings": "file:./screens/settings/",
     "@screens/social-feed": "file:./screens/social-feed/",

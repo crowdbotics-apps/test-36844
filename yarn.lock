@@ -1281,6 +1281,9 @@
 "@screens/chat-listing@file:./screens/chat-listing":
   version "1.0.0"
 
+"@screens/notifications-preference@file:./screens/notifications-preference/":
+  version "1.0.0"
+
 "@screens/profile@file:./screens/profile":
   version "1.0.0"
 
@@ -1299,7 +1302,7 @@
 "@screens/support-faq@file:./screens/support-faq":
   version "1.0.0"
 
-"@screens/support-send-feedback@file:./screens/support-send-feedback/":
+"@screens/support-send-feedback@file:./screens/support-send-feedback":
   version "1.0.0"
 
 "@screens/token@file:./screens/token":
