@@ -26,6 +26,7 @@
     "@screens/direct-messages": "file:./screens/direct-messages/",
     "@screens/menu": "file:./screens/menu/",
     "@screens/notifications-preference": "file:./screens/notifications-preference/",
+    "@screens/photo-library": "file:./screens/photo-library/",
     "@screens/post-edit-job": "file:./screens/post-edit-job/",
     "@screens/profile": "file:./screens/profile/",
     "@screens/settings": "file:./screens/settings/",

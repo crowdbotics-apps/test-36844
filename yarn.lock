@@ -1293,7 +1293,10 @@
 "@screens/notifications-preference@file:./screens/notifications-preference":
   version "1.0.0"
 
-"@screens/post-edit-job@file:./screens/post-edit-job/":
+"@screens/photo-library@file:./screens/photo-library/":
+  version "1.0.0"
+
+"@screens/post-edit-job@file:./screens/post-edit-job":
   version "1.0.0"
 
 "@screens/profile@file:./screens/profile":
