@@ -26,6 +26,7 @@
     "@screens/settings": "file:./screens/settings/",
     "@screens/social-feed": "file:./screens/social-feed/",
     "@screens/social-followers": "file:./screens/social-followers/",
+    "@screens/suggest-a-feature": "file:./screens/suggest-a-feature/",
     "@screens/upload-media": "file:./screens/upload-media/",
     "@screens/welcome": "file:./screens/welcome/",
     "axios": "^0.21.1",
