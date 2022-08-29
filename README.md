@@ -71,6 +71,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-upload-media](screens/upload-media)
 - [terms-and-conditions]()
 - [screen-suggest-a-feature](screens/suggest-a-feature)
+- [screen-token](screens/token)
 
 # Getting started: Frontend
 
