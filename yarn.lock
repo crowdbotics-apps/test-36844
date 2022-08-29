@@ -1281,7 +1281,7 @@
 "@screens/chat-listing@file:./screens/chat-listing":
   version "1.0.0"
 
-"@screens/contact-us@file:./screens/contact-us/":
+"@screens/contact-us@file:./screens/contact-us":
   version "1.0.0"
 
 "@screens/direct-messages@file:./screens/direct-messages":
@@ -1291,6 +1291,9 @@
   version "1.0.0"
 
 "@screens/notifications-preference@file:./screens/notifications-preference":
+  version "1.0.0"
+
+"@screens/post-edit-job@file:./screens/post-edit-job/":
   version "1.0.0"
 
 "@screens/profile@file:./screens/profile":
