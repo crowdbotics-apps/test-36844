@@ -1279,13 +1279,16 @@
 "@screens/profile@file:./screens/profile":
   version "1.0.0"
 
-"@screens/settings@file:./screens/settings/":
+"@screens/settings@file:./screens/settings":
   version "1.0.0"
 
 "@screens/social-feed@file:./screens/social-feed":
   version "1.0.0"
 
 "@screens/social-followers@file:./screens/social-followers":
+  version "1.0.0"
+
+"@screens/upload-media@file:./screens/upload-media/":
   version "1.0.0"
 
 "@screens/welcome@file:./screens/welcome":

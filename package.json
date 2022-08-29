@@ -25,6 +25,7 @@
     "@screens/settings": "file:./screens/settings/",
     "@screens/social-feed": "file:./screens/social-feed/",
     "@screens/social-followers": "file:./screens/social-followers/",
+    "@screens/upload-media": "file:./screens/upload-media/",
     "@screens/welcome": "file:./screens/welcome/",
     "axios": "^0.21.1",
     "react": "17.0.1",
